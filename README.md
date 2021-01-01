@@ -17,3 +17,5 @@ F11 - To exit the app
 /ahelp - to see all available commands
 /aexit - to exit the app using the command
 ```
+### CREDIT
+Credits are available in zip text or in the SAMP.ahk file
