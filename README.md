@@ -1,2 +1,2 @@
 # SAMP-AHK
-Different types of autohotkeys for different GTA SAMP gamemodes
+This application is made of full Autohotkey to function based on [paul-phoenix](https://github.com/paul-phoenix)
