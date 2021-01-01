@@ -11,4 +11,5 @@ How to install AutoHotkey is quite easy, you can extract the folder in the zip t
 To switch on and off you can press the F12 key
 ```
 F12 - to switch on and off
+F11 - To exit the app
 ```
