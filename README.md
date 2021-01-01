@@ -12,7 +12,7 @@ To switch on and off you can press the F12 key
 F12 - to switch on and off
 F11 - To exit the app
 ```
-*Basic Commands
+* Basic Commands
 ```
 /ahelp - to see all available commands
 /aexit - to exit the app using the command
