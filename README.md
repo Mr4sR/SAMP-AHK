@@ -8,7 +8,7 @@ If you want to use this autohotkey, you can download it at [Releases](https://gi
 ## HOW TO INSTALL
 How to install AutoHotkey is quite easy, you can extract the folder in the zip to your GTA SA.
 ## HOW TO USE
-To activate it you can press the F12 key
+To switch on and off you can press the F12 key
 ```
-F12
+F12 - to switch on and off
 ```
